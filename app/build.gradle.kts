@@ -7,7 +7,7 @@ plugins {
 
 android {
     namespace = "net.wadidaw.newsapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "net.wadidaw.newsapp"
